@@ -30,4 +30,4 @@ Certifique-se de ter o **Node.js** (versão 18+ recomendada) e o **Git** instala
 Abra o seu terminal e execute o seguinte comando, substituindo `nome-do-seu-novo-app` pelo nome desejado para o seu novo projeto:
 
 ```bash
-npx create-next-app nome-do-seu-novo-app --example [https://github.com/DosSantosDev2022/template-system-next](https://github.com/DosSantosDev2022/template-system-next)
+npx create-next-app meu-novo-app-next --example https://github.com/DosSantosDev2022/template-system-next
